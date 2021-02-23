@@ -1,2 +1,2 @@
-# MyGeneticAlgorothm
-# 基于Python实现的GA
+### MyGeneticAlgorothm
+ 基于Python实现的GA
